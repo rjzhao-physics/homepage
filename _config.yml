@@ -1,4 +1,7 @@
-title: Renjie Zhao (赵壬杰)
+title: |
+  Your Portfolio Title
+  Second Line of Title
+#title: Renjie Zhao (赵壬杰)
 logo: /assets/img/test.jpg
 #description: text below image
 theme: jekyll-theme-minimal
