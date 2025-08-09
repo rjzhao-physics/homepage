@@ -3,3 +3,12 @@ I am a research fellow in physics at Nanjing Normal University. I received my Ph
 ## Research Interests
 - Thermally activated transitions in elastic nanostructures
 - Thermalization of anisotropic molecular magnets
+
+## Publications (chronological)
+1. **Renjie Zhao** and Chenglin Luo. "Torsion-induced mechanical couplings of single-walled carbon nanotubes." [Applied Physics Letters 99.23 (2011)](
+https://doi.org/10.1063/1.3665938
+)
+2. **Renjie Zhao**, David M. Ackerman, and James W. Evans. "Refined BCF-type boundary conditions for mesoscale surface step dynamics." [Physical Review B 91.23 (2015): 235441](https://doi.org/10.1103/PhysRevB.91.235441)
+3. **Renjie Zhao**, James W. Evans, and Tiago J. Oliveira. "Permeability and kinetic coefficients for mesoscale BCF surface step dynamics: Discrete two-dimensional deposition-diffusion equation analysis." [Physical Review B 93.16 (2016): 165411](https://doi.org/10.1103/PhysRevB.93.165411)
+4. **Renjie Zhao**, Richard C. Remsing, and John D. Weeks. "Response theory for static and dynamic solvation of ionic and dipolar solutes in water." [Journal of Statistical Physics 180.1 (2020): 721-738](https://doi.org/10.1007/s10955-020-02509-z)((special issue celebrating Joel Lebowitz' 90th birthday))
+5. **Dedi Wang, Renjie Zhao**(equal contribution), John D. Weeks, and Pratyush Tiwary. "Influence of long-range forces on the transition states and dynamics of NaCl ion-pair dissociation in water." The Journal of Physical Chemistry B 126.2 (2022): 545-551
