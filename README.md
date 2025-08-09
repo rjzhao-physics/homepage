@@ -16,5 +16,5 @@ https://doi.org/10.1063/1.3665938
 
 ## Education
 - Ph.D., Chemical Physics, University of Maryland (_Dec 2023_)								       		
-- M.S., Condensed Matter Physics, The University of Texas at Dallas (_May 2015_)	 			        		
+- M.S., Condensed Matter Physics, Iowa State University (_May 2015_)	 			        		
 - B.S., Physics, Nanjing Normal University (_June 2011_)
