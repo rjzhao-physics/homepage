@@ -15,6 +15,6 @@ https://doi.org/10.1063/1.3665938
 6. **Renjie Zhao**, Ziyue Zou, John D. Weeks, and Pratyush Tiwary. “Quantifying the Relevance of Long-Range Forces for Crystal Nucleation in Water.” [Journal of Chemical Theory and Computation 19.24 (2023): 9093](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c01120)
 
 ## Education
-- Ph.D. in Chemical Physics, University of Maryland, College Park | | (_Dec 2023_)								       		
+- Ph.D. in Chemical Physics, University of Maryland (_Dec 2023_)								       		
 - M.S. in Condensed Matter Physics, Iowa State University (_May 2015_)	 			        		
 - B.S. in Physics, Nanjing Normal University (_June 2011_)
