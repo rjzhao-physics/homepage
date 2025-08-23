@@ -4,6 +4,9 @@ I am a research fellow at Nanjing Normal University. I received my Ph.D. in Chem
 - Thermally activated transitions in nanoscale elastic structures
 - Thermalization of anisotropic molecular magnets
 
+## News
+- Our latest preprint [_Elastic Metastability: Thermally Activated Snap-through Transitions in Nanostructures_](https://arxiv.org/abs/2508.14658) was featured in a news article by [Quantum Zeitgeist](https://quantumzeitgeist.com/nanoribbons-flip-with-heat-new-thermal-switch-unveiled/), August 2025.
+
 ## Publications (chronological)
 1. **Renjie Zhao** and Chenglin Luo. "Torsion-induced mechanical couplings of single-walled carbon nanotubes." [Applied Physics Letters 99.23 (2011)](
 https://doi.org/10.1063/1.3665938
