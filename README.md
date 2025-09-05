@@ -6,7 +6,7 @@ I am a research fellow at Nanjing Normal University. I received my Ph.D. in Chem
 - B.S. Dept. Physics, Nanjing Normal University (_June 2011_)
 
 ## Preprint
-- **Renjie Zhao**, Yiquan Zhang, and Chenglin Luo. "Elastic Metastability: Thermally Activated Snap-through Transitions in Nanostructures." [arXiv:2508.14658](https://arxiv.org/abs/2508.14658) (featured in [Quantum Zeitgeist](https://quantumzeitgeist.com/nanoribbons-flip-with-heat-new-thermal-switch-unveiled/), August 2025)
+- **Renjie Zhao**, Yiquan Zhang, and Chenglin Luo. "Elastic Metastability: Thermally Activated Snap-through Transitions in Nanostructures." [arXiv:2508.14658](https://arxiv.org/abs/2508.14658)
 
 ## Publications (chronological)
 1. **Renjie Zhao** and Chenglin Luo. "Torsion-induced mechanical couplings of single-walled carbon nanotubes." [Applied Physics Letters 99.23 (2011)](
